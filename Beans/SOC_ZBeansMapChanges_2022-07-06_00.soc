@@ -1,0 +1,284 @@
+Level NZ
+levelname = Westopolis Wastelands
+nozone = true
+typeoflevel = Race
+levelselect = 1
+numlaps = 3
+skynum = 117
+music = MAPNZM
+recordattack = true
+novisitneeded = true
+weather = 3
+skyboxscalez = 0
+nextlevel = 1
+hidden = false
+
+Level PI
+levelname = Monster Monarch
+zonetitle = Classic
+subtitle = Actual Map Hell
+levelselect = 5
+typeoflevel = Race
+recordattack = True
+novisitneeded = True
+hidden = false
+numlaps = 3
+skynum = 8
+weather = PRECIP_STORM
+music = KMAPP1
+
+Level TJ
+levelname = Lava Reef
+subtitle = Sonic Classic 3
+music = LRFK
+typeoflevel = Race
+nextlevel = 01
+recordattack = True
+novisitneeded = True
+numlaps = 3
+hidden = false
+
+Level UT
+levelname = Bellbridge
+zonetitle = LAG MAP
+levelselect = 1
+typeoflevel = Race
+recordattack = True
+novisitneeded = True
+numlaps = 2
+skynum = 461
+hidden = false
+lua.snualua_marsh = true
+
+Level VW
+levelname = Cliffside Castle
+subtitle = MAP HELL
+music = LEGOR7
+typeoflevel = Race
+zonetitle = Hell
+nextlevel = VM
+hidden = false
+skynum = 2
+recordattack = true
+novisitneeded = true
+mobjscale = 7*FRACUNIT/8
+numlaps = 5
+
+Level NQ
+levelname = Hcnar Nol Nol
+subtitle = GOD DAMN DEMON BIRDS
+nozone = true
+typeoflevel = Race
+levelselect = 1
+numlaps = 8
+skynum = 4733
+music = MAPNQM
+recordattack = true
+novisitneeded = true
+weather = 5
+hidden = true
+
+Level YY
+typeoflevel = Solo
+
+Level SZ
+typeoflevel = Solo
+
+Level H0
+typeoflevel = Solo
+
+Level XL
+typeoflevel = Solo
+
+Level H7
+typeoflevel = Solo
+
+Level HC
+typeoflevel = Solo
+
+Level HH
+typeoflevel = Solo
+
+Level M3
+typeoflevel = Solo
+
+Level MB
+typeoflevel = Solo
+
+Level MX
+typeoflevel = Solo
+
+Level NW
+typeoflevel = Solo
+
+Level NV
+typeoflevel = Solo
+
+Level 1
+typeoflevel = Solo
+
+Level 15
+typeoflevel = Solo
+
+Level 28
+typeoflevel = Solo
+
+Level 29
+typeoflevel = Solo
+
+Level 30
+typeoflevel = Solo
+
+Level 32
+typeoflevel = Solo
+
+Level 34
+typeoflevel = Solo
+
+Level 36
+typeoflevel = Solo
+
+Level 37
+typeoflevel = Solo
+
+Level 41
+typeoflevel = Solo
+
+Level 46
+typeoflevel = Solo
+
+Level 54
+typeoflevel = Solo
+
+Level 55
+typeoflevel = Solo
+
+Level 76
+typeoflevel = Solo
+
+Level C9
+typeoflevel = Solo
+
+Level YW
+typeoflevel = Solo
+
+Level Y6
+typeoflevel = Solo
+
+Level Y3
+typeoflevel = Solo
+
+Level M2
+typeoflevel = Solo
+
+Level V5
+typeoflevel = Solo
+
+Level T9
+typeoflevel = Solo
+
+Level CN
+typeoflevel = Solo
+
+Level F7
+typeoflevel = Solo
+
+Level H8
+typeoflevel = Solo
+
+Level K1
+typeoflevel = Solo
+
+Level K5
+typeoflevel = Solo
+
+Level K9
+typeoflevel = Solo
+
+Level N0
+typeoflevel = Solo
+
+Level N7
+typeoflevel = Solo
+
+Level N9
+typeoflevel = Solo
+
+Level NA
+typeoflevel = Solo
+
+Level NM
+typeoflevel = Solo
+
+Level NS
+typeoflevel = Solo
+
+Level RD
+typeoflevel = Solo
+
+Level SF
+typeoflevel = Solo
+
+Level SG
+typeoflevel = Solo
+
+Level TG
+typeoflevel = Solo
+
+Level TH
+typeoflevel = Solo
+
+Level U1
+typeoflevel = Solo
+
+Level U9
+typeoflevel = Solo
+
+Level UA
+typeoflevel = Solo
+
+Level V1
+typeoflevel = Solo
+
+Level V3
+typeoflevel = Solo
+
+Level VU
+typeoflevel = Solo
+
+Level XV
+typeoflevel = Solo
+
+Level Y8
+typeoflevel = Solo
+
+Level 2
+typeoflevel = Solo
+
+Level 4
+typeoflevel = Solo
+
+Level 7
+typeoflevel = Solo
+
+Level 23
+typeoflevel = Solo
+
+Level 42
+typeoflevel = Solo
+
+Level 43
+typeoflevel = Solo
+
+Level 45
+typeoflevel = Solo
+
+Level 53
+typeoflevel = Solo
+
+Level 62
+typeoflevel = Solo
+
+Level 67
+typeoflevel = Solo
+
